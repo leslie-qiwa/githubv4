@@ -5,6 +5,6 @@
 // the recommended package is github.com/google/go-github/github.
 //
 // For now, see README for more details.
-package githubv4 // import "github.com/shurcooL/githubv4"
+package githubv4 // import "github.com/leslie-qiwa/githubv4"
 
 //go:generate go run gen.go
